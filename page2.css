@@ -13,3 +13,9 @@ table,th,td{border:1px solid black;}
 td1{color:#671A70FC;}
 body{background-image:url("images/velvet_cookie_sandwich.jpg")
 }
+thead{font-weight:bold;
+color:#A7821B;
+  text-align:center;  
+  text-shadow:-1px 0px #D7C31F;
+}
+.Core td{color:#980F90;}
